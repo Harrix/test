@@ -1,6 +1,6 @@
 l3 = [
     'qwe', 'wer', 'ert', 'rty', 'tyu', 'yui', 'uio', 'iop',
     'asd', 'sdf', 'dfg', 'fgh', 'ghj', 'hjk', 'jkl',
-    'zxc', 'xcv', 'cvb', 'vbn', 'bnm',
+asdfasdfasdfasfdasd
     'йцуrr', 'цук', 'уке', 'кен', 'енг', 'нгш', 'гшщ', 'шщз', 'щзх', 'зхъ',
 ]
